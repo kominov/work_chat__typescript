@@ -1,0 +1,31 @@
+.nav{
+    font-family: 'Roboto Condensed', sans-serif;
+   
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 1px;
+   
+}
+  .nav__list{
+    padding-left: 15px !important;
+  }
+  .nav__list {
+    margin-top: 10px;
+  }
+  
+  .nav__list a.active{
+    color:#212121;
+  }
+  .nav__list a{
+    display: block;
+    border: 1px solid transparent;
+    padding: 5px 5px; 
+    /* color:#607d8b !important; */
+  }
+  .nav__list a:hover{
+    
+    border-radius: 4px;
+    min-width: 30px;
+    background:rgba(207, 216, 220, 0.3);
+    
+  }

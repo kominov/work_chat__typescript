@@ -1,0 +1,28 @@
+{
+    "messages": [
+        {
+            "id": "2df0a772-191e-42db-a89b-c42311becb53",
+            "name": "Сисадмин Антон",
+            "message": "Привет, у кого упала сеть? Напишите в общий чат!",
+            "userPic": "https://sun3-13.userapi.com/s/v1/if1/G2fp0hTr6JN2pT9xdMaPY5vNKOvJZOifV4HBUbGEtUQ2sIP-diTwg8KyxlXSbO2m2yc96m00.jpg?size=50x0&quality=96&crop=0,0,1080,1080&ava=1"
+        },
+        {
+            "id": "81e694d5-310a-4316-ac06-a72dfa52286e",
+            "name": "Бухгалтер Алла",
+            "message": "У меня в вк сообщения не отправляются! Что делать??",
+            "userPic": "https://sun3-10.userapi.com/s/v1/if2/gyDb0m0EVnmBH5FynxHxyaAfnttBxKrvuKkWj_qqJPkGyloLPo0BcmTj8IJjqYnZAHl5nuz4vEWIkRqUmfX5RY-C.jpg?size=50x0&quality=96&crop=0,0,269,269&ava=1"
+        },
+        {
+            "id": "bd62af49-84d5-48db-94a4-970bb943ebb0",
+            "name": "Секретарша Олечка",
+            "message": "И у меня не работает интернет! Не могу ленту обновить!",
+            "userPic": "https://sun3-12.userapi.com/s/v1/if1/egCMwrbn-6wvnCJyGD_Ji5s2Jau7TJb8oHzpfLc5SqP61Ts9Zm1hXDp24Pg6maLHuYqEtSYt.jpg?size=50x0&quality=96&crop=51,32,210,210&ava=1"
+        },
+        {
+            "id": "9ddc2041-a20a-49bd-b77b-209981a34408",
+            "name": "Босс Владимир",
+            "message": "Антон, поторопись, а то не видать тебе премии!",
+            "userPic": "https://sun3-13.userapi.com/s/v1/ig2/p6alArQ6oI_VaBqACT1BjnQP_ozqn1l0oqlid3Q-QSqC1ppTBuBuNWZSYEf2yqyMwIiLVb1uqy2ZnaZg4Ih7WN04.jpg?size=50x0&quality=96&crop=71,40,344,344&ava=1"
+        }
+    ]
+}
