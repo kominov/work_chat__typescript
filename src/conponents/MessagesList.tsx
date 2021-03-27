@@ -4,13 +4,16 @@ import { IWorkMessage } from '../const'
 import s from './MessagesList.module.css'
 interface Props {
     messages: IWorkMessage[]
-    delHandler:(id:string)=> void
+    delHandler: (id: string) => void
 }
 
-export const MessagesList: React.FC<Props> = ({ messages,delHandler }) => {
+export const MessagesList: React.FC<Props> = ({ messages, delHandler }) => {
+    
     return (<>
         <ul>
             {messages.map(message => {
+                
+
 
                 return (
                     <div className={s.post} key={message.id}>
@@ -20,9 +23,9 @@ export const MessagesList: React.FC<Props> = ({ messages,delHandler }) => {
                                 <div className={s.post__roll}>
                                     <div className={s.post__header}>
                                         <div className={s.user__name}>{message.name}</div>
-                                        <div className={s.del__msg} onClick={event => delHandler(message.id)}>Удалить</div>    
+                                        <div className={s.del__msg} onClick={event => delHandler(message.id)}>Удалить</div>
                                     </div>
-                                    <div className={s.post}>{message.message}</div>
+                                    <div  className={s.post}>{message.message}</div>
                                     <div className={s.post__date}><TimeOfAdded timeOfAdded={message.timeOfAdded} /> </div>
                                     
                                 </div>

@@ -11,8 +11,9 @@ export const WorkChatList: React.FC<Props> = ({ messages }) => {
         <ul>
             {messages.map(message => {
 
+
                 return (
-                    <div className={s.post} key={message.id}>
+                    <div className={s.post} key={message.id} >
                         <div className={s.container}>
                             <div className={s.post__inner}>
                                 <div className={s.post__header}>
