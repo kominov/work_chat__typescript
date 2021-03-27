@@ -21,3 +21,8 @@ code {
 .messeges input::placeholder{
   color:rgb(83, 104, 124);
 }
+@media (max-width: 600px){
+  .post__inner{
+    min-width:120%
+  }
+}
