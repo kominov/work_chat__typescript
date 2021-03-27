@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import { WorkChatRoute } from '../../const'
+import { WorkChatRoute } from '../../constans/const'
 
 export const Header: React.FC = () => {
     return (<>

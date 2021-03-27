@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { FludRoute, WorkChatRoute } from '../../const';
+import { FludRoute, WorkChatRoute } from '../../constans/const';
 
 import s from './Navbar.module.css';
 

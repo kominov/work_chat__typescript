@@ -4,7 +4,7 @@ import { Flud } from './conponents/Flud/Flud';
 import { Header } from './conponents/Header/Header';
 import { Navbar } from './conponents/Navbar/Navbar';
 import { WorkChat } from './conponents/WorkChat/WorkChat';
-import { WorkChatRoute,FludRoute } from './const';
+import { WorkChatRoute,FludRoute } from './constans/const';
 
 
 

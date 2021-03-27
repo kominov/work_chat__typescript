@@ -1,6 +1,6 @@
 import React from 'react'
 import { TimeOfAdded } from './TimeOfAdded/TimeOfAdded'
-import { IWorkMessage } from '../const'
+import { IWorkMessage } from '../constans/const'
 import s from './MessagesList.module.css'
 interface Props {
     messages: IWorkMessage[]
