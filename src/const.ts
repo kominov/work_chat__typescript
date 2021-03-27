@@ -1,4 +1,4 @@
-export const WorkChatRoute = '/';
+export const WorkChatRoute = '/work_chat__typescript';
 export const FludRoute = '/flude';
 export interface IWorkMessage {
     name: string
