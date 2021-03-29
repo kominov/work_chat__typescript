@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/work_chat__typescript/static/css/main.71532c6a.chunk.css",
-    "main.js": "/work_chat__typescript/static/js/main.803b93ac.chunk.js",
-    "main.js.map": "/work_chat__typescript/static/js/main.803b93ac.chunk.js.map",
-    "runtime-main.js": "/work_chat__typescript/static/js/runtime-main.f57a5a04.js",
-    "runtime-main.js.map": "/work_chat__typescript/static/js/runtime-main.f57a5a04.js.map",
-    "static/js/2.6fe6a11d.chunk.js": "/work_chat__typescript/static/js/2.6fe6a11d.chunk.js",
-    "static/js/2.6fe6a11d.chunk.js.map": "/work_chat__typescript/static/js/2.6fe6a11d.chunk.js.map",
-    "static/js/3.02e32eb3.chunk.js": "/work_chat__typescript/static/js/3.02e32eb3.chunk.js",
-    "static/js/3.02e32eb3.chunk.js.map": "/work_chat__typescript/static/js/3.02e32eb3.chunk.js.map",
+    "main.css": "/work_chat__typescript/static/css/main.dc38d677.chunk.css",
+    "main.js": "/work_chat__typescript/static/js/main.8fbbcde7.chunk.js",
+    "main.js.map": "/work_chat__typescript/static/js/main.8fbbcde7.chunk.js.map",
+    "runtime-main.js": "/work_chat__typescript/static/js/runtime-main.307fc161.js",
+    "runtime-main.js.map": "/work_chat__typescript/static/js/runtime-main.307fc161.js.map",
+    "static/js/2.1f36a15b.chunk.js": "/work_chat__typescript/static/js/2.1f36a15b.chunk.js",
+    "static/js/2.1f36a15b.chunk.js.map": "/work_chat__typescript/static/js/2.1f36a15b.chunk.js.map",
+    "static/js/3.b2aa5668.chunk.js": "/work_chat__typescript/static/js/3.b2aa5668.chunk.js",
+    "static/js/3.b2aa5668.chunk.js.map": "/work_chat__typescript/static/js/3.b2aa5668.chunk.js.map",
     "index.html": "/work_chat__typescript/index.html",
-    "static/css/main.71532c6a.chunk.css.map": "/work_chat__typescript/static/css/main.71532c6a.chunk.css.map",
-    "static/js/2.6fe6a11d.chunk.js.LICENSE.txt": "/work_chat__typescript/static/js/2.6fe6a11d.chunk.js.LICENSE.txt"
+    "static/css/main.dc38d677.chunk.css.map": "/work_chat__typescript/static/css/main.dc38d677.chunk.css.map",
+    "static/js/2.1f36a15b.chunk.js.LICENSE.txt": "/work_chat__typescript/static/js/2.1f36a15b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f57a5a04.js",
-    "static/js/2.6fe6a11d.chunk.js",
-    "static/css/main.71532c6a.chunk.css",
-    "static/js/main.803b93ac.chunk.js"
+    "static/js/runtime-main.307fc161.js",
+    "static/js/2.1f36a15b.chunk.js",
+    "static/css/main.dc38d677.chunk.css",
+    "static/js/main.8fbbcde7.chunk.js"
   ]
 }
